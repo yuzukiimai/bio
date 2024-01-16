@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.5.31)  17 JAN 2024 02:22
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.5.31)  17 JAN 2024 02:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -146,14 +146,6 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 16.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 24.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 24.
 
 Package caption Warning: Unused \captionsetup[figure] on input line 4.
 See the caption package documentation for explanation.
@@ -166,12 +158,12 @@ See the caption package documentation for explanation.
 
 ] (out/bio.aux) ) 
 Here is how much of TeX's memory you used:
- 2635 strings out of 481768
- 43005 string characters out of 5933620
- 292471 words of memory out of 5000000
- 18087 multiletter control sequences out of 15000+600000
- 539337 words of font info for 58 fonts, out of 8000000 for 9000
+ 2630 strings out of 481768
+ 42941 string characters out of 5933620
+ 293471 words of memory out of 5000000
+ 18083 multiletter control sequences out of 15000+600000
+ 538818 words of font info for 55 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  48i,4n,46p,317b,154s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/bio.dvi (1 page, 2600 bytes).
+Output written on out/bio.dvi (1 page, 2720 bytes).
