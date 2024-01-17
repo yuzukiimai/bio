@@ -1,11 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1705506931 "out/bio.dvi" "out/bio.pdf" "out/bio" 1705506931
-  "out/bio.dvi" 1705506931 24728 aa3823aa362b77d91427288a327a1a26 "latex"
+["dvipdf"] 1705507838 "out/bio.dvi" "out/bio.pdf" "out/bio" 1705507839
+  "out/bio.dvi" 1705507838 25852 86713e233046de0fb67f815d5b83b8ee "latex"
   (generated)
   "out/bio.pdf"
-["latex"] 1705506931 "/home/yuzuki/bio/bio.tex" "out/bio.dvi" "bio" 1705506931
+["latex"] 1705507838 "/home/yuzuki/bio/bio.tex" "out/bio.dvi" "bio" 1705507839
   "/etc/texmf/web2c/texmf.cnf" 1670335848 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/yuzuki/bio/bio.tex" 1705506931 21296 47b376b6c02f36c9b564d44caa4b4c8f ""
+  "/home/yuzuki/bio/bio.tex" 1705507838 22226 23dc9051aca08409df42d94752396252 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -32,9 +32,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/eptex/platex.fmt" 1685482454 10599210 9de339245e37a93177f0434a6b11323f ""
-  "bio.tex" 1705506931 21296 47b376b6c02f36c9b564d44caa4b4c8f ""
-  "out/bio.aux" 1705506931 8 a94a2480d3289e625eea47cd1b285758 "latex"
+  "bio.tex" 1705507838 22226 23dc9051aca08409df42d94752396252 ""
+  "out/bio.aux" 1705507838 8 a94a2480d3289e625eea47cd1b285758 "latex"
   (generated)
-  "out/bio.dvi"
-  "out/bio.log"
   "out/bio.aux"
+  "out/bio.log"
+  "out/bio.dvi"

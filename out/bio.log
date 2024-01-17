@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.5.31)  18 JAN 2024 00:55
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.5.31)  18 JAN 2024 01:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -156,7 +156,7 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 4.805pt on input line 26.
 [1
 
-] [2] [3] [4] [5] [6]
+] [2] [3] [4] [5] [6] [7]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 4.
 See the caption package documentation for explanation.
@@ -165,7 +165,7 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 5.
 See the caption package documentation for explanation.
 
-[7] (out/bio.aux) ) 
+[8] (out/bio.aux) ) 
 Here is how much of TeX's memory you used:
  2632 strings out of 481768
  42969 string characters out of 5933620
@@ -175,4 +175,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  48i,4n,46p,317b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/bio.dvi (7 pages, 24728 bytes).
+Output written on out/bio.dvi (8 pages, 25852 bytes).
