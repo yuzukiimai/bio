@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.5.31)  18 JAN 2024 08:54
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.5.31)  18 JAN 2024 09:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -173,10 +173,10 @@ See the caption package documentation for explanation.
 Here is how much of TeX's memory you used:
  2646 strings out of 481768
  43147 string characters out of 5933620
- 295471 words of memory out of 5000000
+ 297471 words of memory out of 5000000
  18094 multiletter control sequences out of 15000+600000
  539337 words of font info for 58 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  48i,4n,46p,317b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/bio.dvi (10 pages, 38804 bytes).
+Output written on out/bio.dvi (10 pages, 42756 bytes).
